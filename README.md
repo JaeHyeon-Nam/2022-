@@ -96,15 +96,6 @@
 
 프로젝트 한줄소개 : 질병을 통해 증상을 예측하는 것이 아닌, 증상을 통해 질병을 예상하는 서비스.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -113,22 +104,25 @@ Use the `BLANK_README.md` to get started.
 
 질병매칭서비스 ( Disease Mapping - DM ) 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+### Background
+
+현재 코로나 팬데믹으로 인해 언택트 사회로 변화되면서, 대면진료의 제약을 받는 경우가 있어 원격의료 관련 산업의 중요도가 높아가고 있습니다.
+
+McKinsey에 따르면 , 코로나 19 이전에는 원격의료 서비스 활용률이 현저히 적은 반면에, 코로나 19이후에는 4배 가까이 늘어난 경우가 있습니다. 
+
+ 따라서 이러한 감염병이 유행하는 경우, 질병 예측같은 간접적인 서비스를 제공한다면, 원활한 비대면 진료 환경을 구성할 수 있고, 또한 미세한 증상이라 의료기관에 가기도 애매한 경우에도 도움을 줄 수 있기에 개발을 진행하게 되었습니다
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Purpose
+
+원격 의료 산업 배경으로, 증상만 가지고 질병을 예측할 수 있는 서비스를 구축하여 코로나와 같은 펜데믹 상황의 의료분야를 개선하기 위함
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
-
-질병매칭서비스 ( Disease Mapping - DM ) 
-
 
 * [Ubuntu](https://ubuntu.com/)
 - Web Stack 
