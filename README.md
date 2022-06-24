@@ -94,7 +94,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+프로젝트 한줄소개 : 질병을 통해 증상을 예측하는 것이 아닌, 증상을 통해 질병을 예상하는 서비스.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -109,9 +109,10 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+### Project Name
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+질병매칭서비스 ( Disease Mapping - DM ) 
+
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -124,7 +125,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Built With
 
+질병매칭서비스 ( Disease Mapping - DM ) 
+
+
+* [Ubuntu](https://ubuntu.com/)
+- Web Stack 
+* [AXIOS](https://axios-http.com/)
+* [React](https://ko.reactjs.org/)
+* [Spring](https://spring.io/)
+* [MongoDB](https://www.mongodb.com/)
+- IDE
+* [VScode](https://code.visualstudio.com/)
+* [IntelliJ](https://www.jetbrains.com/)
+* [Jupyter](https://jupyter.org/)
+- Resource
+* [freepik](https://www.freepik.com/)
+* [GoogleFonts](https://fonts.google.com/)
+* [Figma](https://www.figma.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
