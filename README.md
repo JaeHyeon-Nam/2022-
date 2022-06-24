@@ -90,7 +90,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project's summary
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
