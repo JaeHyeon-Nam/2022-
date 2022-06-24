@@ -28,10 +28,12 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
+ ![ProjectName](https://user-images.githubusercontent.com/84455386/175496068-5ec614b8-fd52-44a0-8e21-2375dac1b363.jpg){:
+ <br />
+<div align="center" > 
+<d>
  ![ProjectName](https://user-images.githubusercontent.com/84455386/175496068-5ec614b8-fd52-44a0-8e21-2375dac1b363.jpg)
-
+ </p>
 
   <h3 align="center">Best-README-Template</h3>
 
