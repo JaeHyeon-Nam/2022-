@@ -28,7 +28,7 @@
 
 
 <!-- PROJECT LOGO -->
- ![ProjectName](https://user-images.githubusercontent.com/84455386/175496068-5ec614b8-fd52-44a0-8e21-2375dac1b363.jpg){:
+ ![ProjectName](https://user-images.githubusercontent.com/84455386/175496068-5ec614b8-fd52-44a0-8e21-2375dac1b363.jpg){:width="100" height="100"}
  <br />
 <div align="center" > 
 <d>
