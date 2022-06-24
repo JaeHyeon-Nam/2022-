@@ -92,7 +92,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Project's summary
 
-[product-name]](https://github.com/JaeHyeon-Nam/2022-hackathon/blob/main/ProjectName.jpg?raw=true)
+![ProjectName](https://user-images.githubusercontent.com/84455386/175496068-5ec614b8-fd52-44a0-8e21-2375dac1b363.jpg)
 
 프로젝트 한줄소개 : 질병을 통해 증상을 예측하는 것이 아닌, 증상을 통해 질병을 예상하는 서비스.
 
